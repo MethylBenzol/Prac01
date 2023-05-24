@@ -2,25 +2,25 @@
 ## Первый опыт работы с Java + Spring Boot + Swagger-UI. Созданы необходимые по ТЗ тесты. Добавлена In-Memory БД (/flush/all). Кауров Михаил 319/1 - 23.05.2023
 
 Заголовок Swagger-UI:
-![image](https://github.com/MethylBenzol/Prac01/assets/101063637/f5cbc626-f20d-48d4-8a2b-07362bceb3a4)
+![image](https://github.com/MethylBenzol/Prac01/assets/101063637/2c0feca1-cb76-436c-a454-fa37c7111c20)
 
 Вся страница:
-![image](https://github.com/MethylBenzol/Prac01/assets/101063637/c8e89abf-306a-4a0a-bd48-cdb741a0525a)
+![image](https://github.com/MethylBenzol/Prac01/assets/101063637/1352c6b8-5cac-4480-9c7a-945ba8b1f024)
 
 Контроллер калькулятора (+):
-![image](https://github.com/MethylBenzol/Prac01/assets/101063637/79e9d70d-5b41-486a-b652-04bcd4562f01)
+![image](https://github.com/MethylBenzol/Prac01/assets/101063637/d676330e-ff8f-4ce6-bd67-b642d1081d6c)
 
 (-):
-![image](https://github.com/MethylBenzol/Prac01/assets/101063637/af5dcf67-d74e-4746-8b56-91ead7c78fae)
+![image](https://github.com/MethylBenzol/Prac01/assets/101063637/7e6af112-0703-4c8a-a38e-37f83683e0f0)
 
 Контроллер БД:
-![image](https://github.com/MethylBenzol/Prac01/assets/101063637/5c30c330-1ca2-4d13-b058-a62ce12e6290)
+![image](https://github.com/MethylBenzol/Prac01/assets/101063637/546fefc2-addc-4c2d-aebb-ec4323e2daef)
 
 Вид вывода всех данных БД в PostMan:
-![image](https://github.com/MethylBenzol/Prac01/assets/101063637/2b5eacfb-211b-41f9-a217-2cbdea7ccad4)
+![image](https://github.com/MethylBenzol/Prac01/assets/101063637/12f8cd14-02d5-4437-b670-c5ea392528a0)
 
 Тесты:
-![image](https://github.com/MethylBenzol/Prac01/assets/101063637/a4793c3b-37d8-420d-a7bb-0b5ce830b86d)
+![image](https://github.com/MethylBenzol/Prac01/assets/101063637/2b8a6f33-dddc-45c1-a78f-4e72a0366d57)
 
 Лог тестирования:
 ```
